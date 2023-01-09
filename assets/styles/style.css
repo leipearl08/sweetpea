@@ -1,3 +1,23 @@
 .navbar {
-    background-color: powderblue;
+  background-color: powderblue;
+}
+
+.btn {
+  border-radius: 25px;
+}
+
+.btn-outline-success, .btn-outline-secondary {
+  border-color: mediumblue;
+  color: mediumblue;
+}
+
+.btn-primary {
+  background-color: mediumblue;
+  border-color: mediumblue;
+}
+
+.btn-outline-success:hover {
+  color: white;
+  background-color: mediumblue;
+  border: mediumblue;
 }
