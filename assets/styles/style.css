@@ -27,6 +27,13 @@
 
 .carousel-inner {
   max-width: 90%;
+  height: 130vh;
   position: relative;
   margin: auto;
+  margin-top: 105px;
+}
+
+.carousel-caption {
+  font-size: 1.75rem;
+  color: royalblue;
 }
