@@ -24,3 +24,9 @@
   background-color: mediumblue;
   border: mediumblue;
 }
+
+.carousel-inner {
+  max-width: 90%;
+  position: relative;
+  margin: auto;
+}
