@@ -1,14 +1,14 @@
 .navbar {
   background-color: powderblue;
-  padding-left: 5%;
-  padding-right: 2.5%;
+  padding-left: 8%;
+  padding-right: 7%;
 }
 
 .btn {
   border-radius: 25px;
 }
 
-.btn-outline-success, .btn-outline-secondary {
+.btn-outline-success {
   border-color: mediumblue;
   color: mediumblue;
 }
