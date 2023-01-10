@@ -1,5 +1,7 @@
 .navbar {
   background-color: powderblue;
+  padding-left: 5%;
+  padding-right: 2.5%;
 }
 
 .btn {
@@ -14,6 +16,7 @@
 .btn-primary {
   background-color: mediumblue;
   border-color: mediumblue;
+  align-items: center;
 }
 
 .btn-outline-success:hover {
