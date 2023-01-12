@@ -1,25 +1,3 @@
-.btn {
-  border-radius: 25px;
-}
-
-.btn-outline-success {
-  border-color: mediumblue;
-  color: mediumblue;
-}
-
-.btn-outline-success:hover {
-  color: white;
-  background-color: mediumblue;
-  border: mediumblue;
-}
-
-.btn-primary {
-  background-color: mediumblue;
-  border-color: mediumblue;
-  align-items: center;
-  font-family: "Alice", serif;
-}
-
 .carousel-inner {
   height: 130vh;
   position: relative;
