@@ -1,37 +1,33 @@
-.btn {
-    border-radius: 25px;
+.hero-btn {
+  background-color: powderblue;
+  border-color: powderblue;
+  align-items: center;
+  font-family: "Alice", serif;
 }
 
-.btn-outline-success {
-    border-color: mediumblue;
-    color: mediumblue;
+.header-btn {
+  border-color: mediumblue;
+  color: mediumblue;
 }
 
-.btn-outline-success:hover {
-    color: white;
-    background-color: mediumblue;
-    border: mediumblue;
-}
-
-.btn-primary {
-    background-color: mediumblue;
-    border-color: mediumblue;
-    align-items: center;
-    font-family: "Alice", serif;
+.header-btn:hover {
+  color: white;
+  background-color: mediumblue;
+  border: mediumblue;
 }
 
 .product button {
-    border: none;
-    outline: 0;
-    padding: 12px;
-    color: #000;
-    background-color: powderblue;
-    text-align: center;
-    cursor: pointer;
-    width: 100%;
-    font-size: 1.5rem;
+  border: none;
+  outline: 0;
+  padding: 12px;
+  color: #000;
+  background-color: powderblue;
+  text-align: center;
+  cursor: pointer;
+  width: 100%;
+  font-size: 1.5rem;
 }
 
 .product button:hover {
-    opacity: 0.7;
+  opacity: 0.7;
 }
