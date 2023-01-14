@@ -20,7 +20,7 @@
   border: none;
   outline: 0;
   padding: 12px;
-  color: #000;
+  color: dimgray;
   background-color: powderblue;
   text-align: center;
   cursor: pointer;
@@ -30,4 +30,11 @@
 
 .product button:hover {
   opacity: 0.7;
+}
+
+.hero-text > h1 {
+  font-family: "Sacramento", cursive;
+}
+.hero-text > p {
+  font-family: "Alice", serif;
 }
