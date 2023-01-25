@@ -5,11 +5,6 @@
   margin-top: 105px;
 }
 
-.footer-bar {
-  font-family: "Alice", serif;
-  font-size: 1.25em;
-}
-
 .header {
   background-color: powderblue;
   padding-left: 6%;
@@ -33,7 +28,8 @@
 .product > img {
   vertical-align: middle;
   width: 100%;
-  height: auto;
+  height: 50%;
+  object-fit: cover;
 }
 
 .product-row {
